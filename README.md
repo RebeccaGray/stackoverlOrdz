@@ -1,12 +1,13 @@
-# stackorverlOrdz - Greenfield Project
+# Spark --Social Networking
 
 > "Things are bound to ignite when sparks fly!"
 
 ## Team
 
-  - __Product Owner__: Deniz Tetik
-  - __Scrum Master__: Andrew Leonardi
-  - __Development Team Members__: Bohee Park, Rebecca Gray
+  - Deniz Tetik
+  - Andrew Leonardi
+  - Bohee Park
+  - Rebecca Gray
 
 ## Table of Contents
 
